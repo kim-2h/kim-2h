@@ -1,9 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## About Me
-- ✏️ I'm a student at Sogang University
-- 🔭 I'm interested in making game, or mobile application, or web
-- 🎸 I usually past time playing games or listening to musics
+✏️ I'm a student at Sogang University<br/>
+🔭 I'm interested in making game, or mobile application, or web<br/>
+🎸 I usually past time playing games or listening to musics<br/>
 
 <!--
 **kim-2h/kim-2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
