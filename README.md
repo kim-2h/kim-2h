@@ -4,10 +4,11 @@
 🔭 I enjoy working on game development, mobile apps, and web projects<br/>
 🎸 In my free time, I like playing games or listening to music<br/>
 ## What I can do...
-<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <br/>
-With little bit of...<br/>
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>  
+<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white"/> <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=flat-square&logo=unity&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"/> <br/>
+
+With a little bit of...<br/>
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=flat-square&logo=blender&logoColor=white"/>  
 
 <!--
 **kim-2h/kim-2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
