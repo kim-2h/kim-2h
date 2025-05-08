@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=350&section=header&text=Welcome!&fontSize=90&desc=I'm%20Kim-Yi%20Hyeon&descSize=45&descAlign=50&padding=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=I'm%20Kim-Yi%20Hyeon&descSize=45&descAlign=50&padding=40)
 ## About Me
 ✏️ I'm a student at Sogang University<br/>
 🔭 I enjoy working on game development, mobile apps, and web projects<br/>
