@@ -3,6 +3,11 @@
 ✏️ I'm a student at Sogang University<br/>
 🔭 I'm interested in making game, or mobile application, or web<br/>
 🎸 I usually past time playing games or listening to musics<br/>
+## What I can do...
+<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
+<img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
 
 <!--
 **kim-2h/kim-2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
