@@ -17,6 +17,10 @@
 <br/>
 <br/>
 
+<div align="center">
+
+<div style="display: inline-block; text-align: left; max-width: 600px;">
+
 ### About Me
 ✏️ I'm a student at Sogang University<br/>
 🔭 I enjoy making games, mobile apps, and web pages<br/>
@@ -31,4 +35,6 @@
 
 #### With a little bit of
 </a> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=flat&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/max-%23525252.svg?&style=flat&logo=max&logoColor=white" />
+</div>
 
+</div>
