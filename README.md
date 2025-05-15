@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcome!&fontSize=90&desc=I'm%20Kim%20Yi-Hyeon&descSize=45&descAlign=50&descAlignY=65&padding=40)
 
 ### ✨Portfolio Link✨
-**노션 포트폴리오 링크**<br/>
-➡️[kim2h.notion.site](https://kim2h.notion.site/a1b53d99818e4886afcd1cb05dbb723d?pvs=4)
+</a>**노션 포트폴리오 링크**<br/>
+</a>➡️[kim2h.notion.site](https://kim2h.notion.site/a1b53d99818e4886afcd1cb05dbb723d?pvs=4)
 <br/><br/>
 
 ### About Me
