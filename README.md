@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcome!&fontSize=90&desc=I'm%20Kim%20Yi-Hyeon&descSize=45&descAlign=50&descAlignY=65&padding=40)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcome!&fontSize=90&desc=I'm%20Kim%20Yi-Hyeon&descSize=45&descAlign=50&descAlignY=65&padding=40">
+</p>
 <div align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </div>
