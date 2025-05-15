@@ -1,9 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Welcome!&fontSize=90&desc=I'm%20Kim%20Yi-Hyeon&descSize=45&descAlign=50&descAlignY=65&padding=40)
+<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
+<div align="center">
+<h3>✨Portfolio Link✨</h3>
+<strong>노션 포트폴리오 링크</strong><br/>
+<a href="https://kim2h.notion.site/a1b53d99818e4886afcd1cb05dbb723d?pvs=4">kim2h.notion.site</a>
+</div>
+<br/>
+<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
 
-### ✨Portfolio Link✨
-</a>**노션 포트폴리오 링크**<br/>
-</a>➡️[kim2h.notion.site](https://kim2h.notion.site/a1b53d99818e4886afcd1cb05dbb723d?pvs=4)
-<br/><br/>
+<br/>
+<br/>
 
 ### About Me
 ✏️ I'm a student at Sogang University<br/>
