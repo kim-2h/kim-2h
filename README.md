@@ -7,7 +7,7 @@
 <div align="center">
 <h3>✨Portfolio Link✨</h3>
 <strong>노션 포트폴리오 링크</strong><br/>
-<a href="https://kim2h.notion.site/a1b53d99818e4886afcd1cb05dbb723d?pvs=4">➡️https://kim2h.notion.site</a>
+<a href="https://kim2h.notion.site/">➡️https://kim2h.notion.site</a>
 </div>
 <br/>
 <div align="center">
